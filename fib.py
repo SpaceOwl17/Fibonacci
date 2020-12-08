@@ -5,5 +5,3 @@ for i in range(35):
     b = a
     a = c
 
-
-
